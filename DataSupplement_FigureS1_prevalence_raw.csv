@@ -1,0 +1,5 @@
+group,n_total,n_conduction_marker,pct_conduction_marker,n_wide_QRS,pct_wide_QRS
+Double-negative,7488,894,11.9,324,4.3
+Mass-only,898,345,38.4,285,31.7
+Voltage-only,66,5,7.6,0,0.0
+Double-positive,105,14,13.3,2,1.9
